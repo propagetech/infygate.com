@@ -6,8 +6,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/fonts/fontawesome-webfont.eot?v=4.0.3');
-  src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/fonts/fontawesome-webfont.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/fonts/fontawesome-webfont.woff?v=4.0.3') format('woff'), url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/fonts/fontawesome-webfont.ttf?v=4.0.3') format('truetype'), url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');
+  src: url('fonts/0b182d4985afbacf619ba90070f94736.eot');
+  src: url('fonts/d509253c1cad446bb5de94fb0f5ea80c.eot') format('embedded-opentype'), url('fonts/c06765efa71fc4a85ff95d45333a920d.woff') format('woff'), url('fonts/3d97fbf01e09450023efc6d92092b8e9.ttf') format('truetype'), url('imgs/18e24f89e06f8d9904baa9857098e836.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
